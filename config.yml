@@ -1,0 +1,5 @@
+user: "wesure"  # username in account settings
+passwd: "753PUZYqYVTDSDguSpWG" # app passwords with permissions(rw, admin for repositories, rw for pull requests)
+owner: "wesure" # workspace id in account settings
+clone: "./" # local clone path for the repositories, like /tmp
+pattern: "misc/conf" # the pattern for filtering the config file
